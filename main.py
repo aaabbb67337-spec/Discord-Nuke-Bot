@@ -14,7 +14,7 @@ import requests
 
 import keep_alive
 
-token = "MTUyMTc1MzAxNjk4OTEyMjU5MA.GXD8yb.T9rRvFz6Mu5pbV1COJFn7r4dyvfYEGho6T3sq0"
+token = "MTUyMTc1MzAxNjk4OTEyMjU5MA.GC9ih-.9BsXHS4qvoun81XPA6_ZDaMKgoaqDUwsWFssOU"
 
 #Check 'README.md' For Tutorial
 
@@ -58,7 +58,7 @@ Made By Karamveer Dont Share Without Credit
 
  ''')
 
-   await client.change_presence(activity=discord.Game(name="𝐁𝐨𝐭_𝐒𝐭𝐚𝐭𝐮𝐬"))
+   await client.change_presence(activity=discord.Game(name="On"))
 
 @client.command()
 
